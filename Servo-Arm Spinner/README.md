@@ -1,3 +1,4 @@
+## Overview
 This project was a KiCad PCB design that would spin a 3D printed "arm" continuously over a photoresistor. The idea would be to press the button when the arm is over the photoresistor, which would be detected by using the microcontroller (ATtiny84-20P) to read the photoresistor sensor output. The buzzer would play different sounds based on if it was timed correctly or not. This design was not printed and built physically, or programmed.
 
 ## Circuit Schematic
