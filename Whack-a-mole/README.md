@@ -1,3 +1,4 @@
+## Overview
 This project was a KiCad PCB design for the whack-a-mole game to be played, although this is only a conceptual design and was not actually printed and assembled physically, or programmed. The idea of the board is to press the correct button when the corresponding LED lights up, and the piezo buzzer would be used to play sounds. 
 Images of the circuit schematic & PCB layout can be seen below.
 The PCB layout does not feature the microcontroller as there was not a 3D model to display the microcontroller's footprint on KiCad.
