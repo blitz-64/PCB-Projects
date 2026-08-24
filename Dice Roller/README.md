@@ -1,4 +1,5 @@
 This project was a KiCad PCB design created to function as a dice roller circuit. The PCB uses 7 Charlieplexed LEDs to use minimal pins on the microcontroller (ATtiny85-20P), allowing for the button, power switch, and reset to be connected as well. This board simply works by turning it on using the power switch and pressing the button to "Roll" the dice. Pressing the button would cycle through different LED patterns until it is let go, where the LED cycling would slow down until reaching a final random pattern that showed the number rolled (1-6). The PCB functioned using a coin battery on the back, seen below, although there was no 3D model for a coin battery footprint since it was a custom made footprint made in KiCad. 
+
 This PCB was printed and the components were soldered on physically. The microcontroller was soldered on the board after programming it. A simple plastic case was modelled using SolidWorks (and KiCad for the PCB 3D model) and 3D printed. Unfortunately, I do not have the files for the 3D assembly and the program compiled onto the ATtiny84-20P, however a basic explanation for the idea behind the code is below.
 
 ## Code/Program Explanation:
