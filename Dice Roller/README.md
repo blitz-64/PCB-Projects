@@ -11,7 +11,5 @@ It worked by setting up all the required components (LEDs, button, etc.) for I/O
 ## PCB Layout Views
 
 <img width="960" height="942" alt="front view dangel die" src="https://github.com/user-attachments/assets/c64de263-2bb3-44f8-8d6a-5dff457ba56f" />
-(Front)
 
 <img width="931" height="935" alt="back view dangle die" src="https://github.com/user-attachments/assets/ebf3e0a3-9ee0-43d5-907e-1d2789634c19" />
-(Back)
